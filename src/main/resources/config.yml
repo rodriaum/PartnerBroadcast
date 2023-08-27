@@ -1,0 +1,8 @@
+permissions:
+  broadcast-partner: 'permission.divulgar'
+
+messages:
+  usage-correct: '&cUso correto: /divulgar <link>'
+  broadcast-partner: '&b&lSERVIDOR &7» &a%player% está divulgando! &eAcesse: &b%link%'
+  without-permission: '&cVocê não possui permissões suficientes.'
+  is-console: '&cEste comando só pode ser executado por jogadores.'

@@ -1,0 +1,5 @@
+name: PartnerBroadcast
+version: 1.0.0
+main: com.github.rodriaum.broadcast.PartnerBroadcast
+author: rodriaum
+description: PartnerBroadcast Bungee Plugin.
